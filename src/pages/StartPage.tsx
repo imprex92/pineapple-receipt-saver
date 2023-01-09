@@ -1,8 +1,12 @@
 import React from 'react'
+import Naviagtion from 'components/Naviagtion'
 
 const StartPage = () => {
   return (
-	<div>StartPage</div>
+	<>
+		<Naviagtion />
+		<div>StartPage</div>
+	</>
   )
 }
 

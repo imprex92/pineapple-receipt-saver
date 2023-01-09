@@ -1,8 +1,12 @@
 import React from 'react'
+import Naviagtion from 'components/Naviagtion'
 
 const HomePage = () => {
   return (
-	<div>HomePage</div>
+	<>
+		<Naviagtion />
+		<div>UserPage</div>
+	</>
   )
 }
 
