@@ -1,5 +1,5 @@
 import React from 'react'
-import Naviagtion from 'components/Naviagtion'
+import Naviagtion from 'components/navbar/Naviagtion'
 
 const StartPage = () => {
   return (

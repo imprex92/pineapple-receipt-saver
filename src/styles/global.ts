@@ -1,14 +1,5 @@
 import { createGlobalStyle } from "styled-components";
-import {
-    Container, 
-    Logo, 
-    Flag, 
-    Text, 
-    Wrapper, 
-    Searchbox,
-    Select,
-    SearchIconWrapper
-} from "styles"
+
 
 export default createGlobalStyle`
 	* {
